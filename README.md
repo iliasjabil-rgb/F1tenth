@@ -6,7 +6,7 @@ Bienvenue sur le dépôt du projet F1TENTH. Ce projet vise à concevoir, assembl
 
 * **Châssis :** Tamiya TT-02 (Upgradé alu & roulements)
 * **Propulsion :** Moteur Brushless Sensored Xerun V10 G4R + Contrôleur **VESC 6 EDU**
-* **Calculateur :** Raspberry Pi 5 (16GB)
+* **Calculateur :** Raspberry Pi 5 (16GB) IP Ethernet : 192.168.50.1 IP WIFI: 10.42.0.52  , rapsicar@jerem sudo mdp jerem
 * **Alimentation :** Batterie NiMh 7.2V + UBEC Hobbywing 5V/5A (pour alimenter la Pi)
 * **Capteurs :**
   * LiDAR 2D Slamtec C1 (360°)
